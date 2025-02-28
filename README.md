@@ -1,1 +1,2 @@
 # Modeling-Temperature-Distribution-in-Industrial-Equipment
+The project solves the Poisson and Laplace equations for temperature distribution using the following parameters: the initial temperature matrix, the discretization step on the x-axis, the discretization step on the y-axis, the heat source matrix, thermal conductivity, heat capacity, the maximum number of iterations, the convergence tolerance, and the temperature matrix at convergence.
